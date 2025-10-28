@@ -16,11 +16,11 @@ public class TelefoneApp {
     }
 
     public void telefone() {
-        // player.selecionarMusica("Guns n' Roses - November Rain");
-        // player.tocar();
+        player.selecionarMusica("Guns n' Roses - November Rain");
+        player.tocar();
 
-        // ligacao.ligarPara("996213636");
-        // ligacao.ligar();
+        ligacao.ligarPara("996213636");
+        ligacao.ligar();
 
         navegador.abrirNavegador();
         navegador.abrirNavegador();

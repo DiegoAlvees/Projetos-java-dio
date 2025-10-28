@@ -12,7 +12,6 @@ public class Navegador {
             return;
         }
         navegadorAberto = true;
-        System.out.println(abasAbertas);
     }
 
     public void exibirPagina() {
